@@ -22,7 +22,7 @@ check for:
 - An input vulnerability where submitting the pipe character results in a
   distinctive error message, indicating an exploitable condition.
 
-The sample extension demonstrates the following techniques:
+The sample extension demonstrates the following techniques-
 - Registering a custom scanner check.
 - Performing passive and active scanning when initiated by the user.
 - Using the Burp-provided IScannerInsertionPoint to construct requests for
